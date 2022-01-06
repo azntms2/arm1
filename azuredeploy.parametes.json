@@ -11,14 +11,12 @@
       "adminPassword": {
         "value": "123#ntms123#"
       },
-      "windowsOSVersion": {
+      "WindowsOSversion": {
         "value": "2016-Datacenter"
               },
       "vmSize": {
         "value": "Standard_DS1_v2"
-      },
-      "location": {
-        "value": "eastus"
       }
+     
          }
   }
